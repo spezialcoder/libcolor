@@ -14,7 +14,7 @@ int main()
 ```
 And for changing the background:
 ```c++
-#include "libcolor/libcolor.h>
+#include "libcolor/libcolor.h"
 #include <iostream>
 using namespace std;
 int main()
