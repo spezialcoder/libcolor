@@ -1,5 +1,5 @@
 # libcolor
-A C ++ library for changing the text unf background color of a terminal
+A C ++ library for changing the text and background color of a terminal
 
 An example of changing the text color:
 
