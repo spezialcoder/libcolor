@@ -5,15 +5,10 @@ An Example:
 
 ```
 #include "libcolor/libcolor.h>
-
 #include <iostream>
-  
 using namespace std;
-
 int main()
 {
-
   cout << font_color::green << "Hello World" << endl;
-  
 }
 ```
