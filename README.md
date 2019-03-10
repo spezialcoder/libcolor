@@ -3,7 +3,7 @@ A C ++ library for changing the text unf background color of a terminal
 
 An Example:
 
-```
+```c++
 #include "libcolor/libcolor.h>
 #include <iostream>
 using namespace std;
